@@ -1,0 +1,17 @@
+--cpu Cortex-M4.fp
+".\bmx055.o"
+".\can1_interface.o"
+".\i2c.o"
+".\main.o"
+".\stm32f4xx_it.o"
+".\filter.o"
+".\misc.o"
+".\stm32f4xx_can.o"
+".\stm32f4xx_gpio.o"
+".\stm32f4xx_i2c.o"
+".\stm32f4xx_rcc.o"
+".\stm32f4xx_tim.o"
+".\startup_stm32f4xx.o"
+".\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "BMXtoCAN.sct"
+--summary_stderr --info summarysizes -o .\BMXtoCAN.axf

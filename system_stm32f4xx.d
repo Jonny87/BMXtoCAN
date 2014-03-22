@@ -1,0 +1,16 @@
+.\system_stm32f4xx.o: STM32F4_libs\CMSIS\system_stm32f4xx.c
+.\system_stm32f4xx.o: STM32F4_libs\CMSIS\stm32f4xx.h
+.\system_stm32f4xx.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm4.h
+.\system_stm32f4xx.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\system_stm32f4xx.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmInstr.h
+.\system_stm32f4xx.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cmFunc.h
+.\system_stm32f4xx.o: C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include\core_cm4_simd.h
+.\system_stm32f4xx.o: STM32F4_libs\CMSIS\system_stm32f4xx.h
+.\system_stm32f4xx.o: .\BMXtoCAN\stm32f4xx_conf.h
+.\system_stm32f4xx.o: .\STM32F4_libs\STM32F4xx_StdPeriph_Driver\stm32f4xx_can.h
+.\system_stm32f4xx.o: .\STM32F4_libs\CMSIS\stm32f4xx.h
+.\system_stm32f4xx.o: .\STM32F4_libs\STM32F4xx_StdPeriph_Driver\stm32f4xx_gpio.h
+.\system_stm32f4xx.o: .\STM32F4_libs\STM32F4xx_StdPeriph_Driver\stm32f4xx_i2c.h
+.\system_stm32f4xx.o: .\STM32F4_libs\STM32F4xx_StdPeriph_Driver\stm32f4xx_rcc.h
+.\system_stm32f4xx.o: .\STM32F4_libs\STM32F4xx_StdPeriph_Driver\stm32f4xx_tim.h
+.\system_stm32f4xx.o: .\STM32F4_libs\STM32F4xx_StdPeriph_Driver\misc.h
